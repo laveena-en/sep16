@@ -1,0 +1,1 @@
+SELECT name FROM public."users" LIMIT 10;
